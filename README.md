@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KatoTaesik
+- 👋 Hi, I’m @KatoTaesik our Andrei Nunes Pereira
 - 👀 I’m interested in music
 - 🌱 I’m currently learning html/css/java/javascript
 - 💞️ I’m looking to collaborate on ...
